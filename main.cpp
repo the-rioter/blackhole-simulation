@@ -1,6 +1,4 @@
-// main.cpp  -  Interactive 3D Black Hole + Tidal Disruption
-// OpenGL 3.3 Core, GLFW, GLAD. Single file. Built for weak PCs (adaptive resolution + 4 threads).
-// Optional: compile with -DUSE_STB_IMAGE (and put stb_image.h next to this file) to load JPG/PNG.
+
 #define _CRT_SECURE_NO_WARNINGS
 #include <glad/glad.h>
 #include <GLFW/glfw3.h>
