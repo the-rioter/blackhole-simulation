@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="blackhole-simulation.vcxproj" Id="67e71046-bf0b-48d9-bb84-cc9f2f7de470" />
+</Solution>
